@@ -6,3 +6,4 @@ Programa de Aceleração em Datascience. Aqui será reunido todos os desafios do
 * [Retirando dados Estatísticos do Dataset](https://github.com/kalilkelvin/Aceleradev_Datascience_042020/blob/master/Desafio%202%20-%20Estatisticas/Desafio%20Semana%203.ipynb)
 * [Funções de Probabilidade](https://github.com/kalilkelvin/Aceleradev_Datascience_042020/blob/master/Desafio%203%20-%20Funcoes%20Probabilidade/main.ipynb)
 * [Teste Estatísticos](https://github.com/kalilkelvin/Aceleradev_Datascience_042020/blob/master/Desafio%204%20-%20Testes%20Estatisticos/main.ipynb)
+* [Redução de dimensionalidade](https://github.com/kalilkelvin/Aceleradev_Datascience_042020/blob/master/Desafio%205%20-%20Reducao%20de%20dimensionalidade/main.ipynb)
